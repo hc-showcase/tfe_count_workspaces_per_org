@@ -3,8 +3,8 @@
 set -e
 
 TFE_HOST='tfe.msk.pub'
-TOKEN_USER='HSX19iWZXaieUg.atlas'
-TOKEN_ADMIN='Xbr1MjNAFzOyAQ.atlasv1.GQtJ'
+TOKEN_USER='asd123'
+TOKEN_ADMIN='asd123'
 
 echo "Option 1 iterates over all organizations and prints the workspaces per organization. It uses the 'api/v2/organizations' endpoint."
 echo
