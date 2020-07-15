@@ -1,6 +1,6 @@
 # Total organizations and workspaces
 
-This script counts the number of workspaces and organization a user is a member of as well as the total amount of organizations and workspaces that exist in a TFE installation. TFE has two endpoints (called "option 1" and "option 2"). The script illustrates the usage of both of them.
+This script counts the number of workspaces and organizations a user is a member of as well as the total amount of organizations and workspaces that exist in a TFE installation. TFE has two endpoints (called "option 1" and "option 2"). The script illustrates the usage of both of them.
 
 For more details see the API documentation:
 * Option 1: https://www.terraform.io/docs/cloud/api/organizations.html
